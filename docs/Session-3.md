@@ -31,7 +31,7 @@ Imagine building an awesome treehouse... but you need a place to put it! That's 
 
 Let's say your GitHub username is "coderkid123". Your website address would be:
 
-`https://Ikromjon1998.github.io/your-repository-name/`
+`https://Ikromjon1998.github.io/welcome-young-developers`
 
 (Don't worry, we'll help you figure out the "repository name" part!)
 
