@@ -7,6 +7,8 @@ Imagine building an awesome treehouse... but you need a place to put it! That's 
 * A **free** hosting platform
 * Part of GitHub, a website where developers store and share code
 * Super easy to use, even for beginners!
+* you can get your project directly from github.com
+* i am smart kid in this world ever
 
 **Why use GitHub Pages?**
 
