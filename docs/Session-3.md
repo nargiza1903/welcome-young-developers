@@ -29,7 +29,7 @@ Imagine building an awesome treehouse... but you need a place to put it! That's 
 
 **Example:**
 
-Let's say your GitHub username is "coderkid123". Your website address would be:
+Let's say your GitHub username is "Ikromjon1998". Your website address would be:
 
 `https://Ikromjon1998.github.io/welcome-young-developers`
 
